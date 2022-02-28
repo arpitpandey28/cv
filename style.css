@@ -1,0 +1,21 @@
+
+        body{
+            background-color: #86C6F4;
+        }
+        hr{
+           border-style: none;
+           border-top-style: dotted;
+           width: 30%;
+           border-color: gray;
+           border-width: 5px;
+        }
+        h2{
+            font-style: italic;
+            color: rgb(151, 39, 39);
+        }
+        span{
+            font-size: xx-large;
+            font-style: oblique 40deg;
+            color: rgb(44, 41, 41);
+        }
+ 
